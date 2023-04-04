@@ -22,8 +22,6 @@ class MinimumPartitions {
             index++;
         }
 
-        
-
         return count;
     }
 }
